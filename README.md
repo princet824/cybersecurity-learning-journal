@@ -11,3 +11,8 @@ Date: 2026-09-23
 Topic: Computer Hardware, assembling a PC
 Source: TryHackMe (Cold Boot room)
 Notes: Learned PSU, RAM, GPU placement and matching specs to a case file
+---
+Date: 2026-09-23
+Topic: Started Professor Messer CompTIA A+Core 1 (220-1201)
+Source: Professor Messer (Youtube)
+Notes: 
